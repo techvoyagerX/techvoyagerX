@@ -1,16 +1,13 @@
-## Hi there 👋
+# Hi there 👋
 
-<!--
-**techvoyagerX/techvoyagerX** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### Senior Software Engineer | Open Source Contributor
 
-Here are some ideas to get you started:
+With over 10 years of experience in software engineering, I have honed my skills across various technologies and languages. My passion lies in building robust, efficient, and scalable systems.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 💪 Strongest Tech Stack
+- **Rust**
+- **Solidity**
+- **Elixir**
+
+### 💻 Open Source Contributions
+I actively contribute to open source projects, sharing my knowledge and collaborating with the global developer community to push the boundaries of what's possible.
