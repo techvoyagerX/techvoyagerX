@@ -13,5 +13,5 @@ With over 10 years of experience in software engineering, I have honed my skills
 I actively contribute to open source projects, sharing my knowledge and collaborating with the global developer community to push the boundaries of what's possible.
 
 <a href="https://www.gitpoap.io/p/voyagerxx.eth" target="_blank">
-    <img src="./assets/2024-openzeppelin-contracts-contributor-gitpoap.png" alt="GitPOAP" width="180px">
+    <img src="./assets/2024-openzeppelin-contracts-contributor-gitpoap.png" alt="GitPOAP" width="200px">
 </a>
